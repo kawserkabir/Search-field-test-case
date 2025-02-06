@@ -83,19 +83,10 @@ This document provides comprehensive test cases for verifying the functionality 
 2. Measure response times.
 **Expected Result**: The search results are returned within acceptable response times.
 
----
-
-## Test Case 9: Search Field Responsiveness
-**Test Case ID**: TC_SEARCH_09  
-**Objective**: Ensure the search field is responsive across various devices and screen sizes.  
-**Steps**:  
-1. Access the application on desktop, tablet, and mobile devices.
-2. Test the functionality and appearance of the search field on each device.
-**Expected Result**: The search field is functional and properly aligned across all devices.
 
 ---
 
-## Test Case 10: Search Results Pagination
+## Test Case 9: Search Results Pagination
 **Test Case ID**: TC_SEARCH_10  
 **Objective**: Verify the pagination of search results.  
 **Steps**:  
