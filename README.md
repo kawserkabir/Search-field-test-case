@@ -9,7 +9,7 @@ This document provides comprehensive test cases for verifying the functionality 
 **Objective**: Ensure the search field returns correct results for valid inputs.  
 **Steps**:  
 1. Navigate to the application.
-2. Enter a valid search term (e.g., "Product 1") in the search field.
+2. Enter a valid search term (e.g.,"Product 1") in the search field.
 3. Click the search button or press "Enter".
 **Expected Result**: Relevant results matching the search term are displayed.
 
